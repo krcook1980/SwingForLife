@@ -90,8 +90,25 @@ h4 {
 
 #myCarousel {
     width: 90%;
-    max-height: 600px;
+    max-height: 500px;
     overflow: hidden;
     margin: auto;
     text-align: center;
+}
+
+.carousel-inner{
+    position: bottom right;
+    margin-top: -10%
+}
+
+.darker {
+    color:rgb(248, 36, 107)
+}
+
+.white{
+    color: white;
+}
+
+.moveUp {
+    margin-top: -15%;
 }

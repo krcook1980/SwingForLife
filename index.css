@@ -74,6 +74,7 @@ h4 {
 .text {
     padding: 3%;
     text-align: justify;
+    background-color: #000000aa;
 }
 
 .venmo {
